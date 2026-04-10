@@ -5,7 +5,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-7b75d9.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.12-blue)](https://python.org)
-[![OpenAPI](https://img.shields.io/badge/OpenAPI-2.0-green)](https://swagger.io)
 [![Built by Glápagos](https://img.shields.io/badge/Built%20by-Gl%C3%A1pagos-7b75d9)](https://www.glapagos.com)
 
 This repo contains the **annotated reference implementation** of the Glápagos backend stack — every layer documented, every config explained, production-hardened. Fork what you need. Star what you find useful.
