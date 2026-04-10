@@ -1,7 +1,9 @@
 # Glápagos Backend — Reference Stack
 
 > **The platform where your data stays and the Americas move.**  
-> A modular, provider-agnostic backend for federated data and agentic AI at production scale.
+> A modular, provider-agnostic backend for federated data and agentic AI at production scale. This repo contains the annotated reference implementation of the Glápagos backend stack — every layer documented, every config explained, production-hardened. Fork what you need. Star what you find useful.
+→ Platform: glapagos.com/platform
+→ Request access: glapagos.com
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-7b75d9.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.12-blue)](https://python.org)
